@@ -1,4 +1,4 @@
-﻿#Student Course Enrolment & Timetable Management System
+﻿Student Course Enrolment & Timetable Management System
 
 This project is a simple Java application that allows students to enroll in courses and view their timetable. The system uses Oracle Database for storing student, course, and timetable records. The project is developed in IntelliJ IDEA with a GUI. 
 
